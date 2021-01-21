@@ -1,5 +1,3 @@
-#Verdadeiro repositório: https://github.com/Genmato/M2_UnCancelOrder
-
 Genmato Un-Cancel Order extension for Magento2
 ====
 
@@ -31,3 +29,4 @@ When there is a updated version available, simply run (in your Magento installat
 
 `composer update`
 
+#### True repository: https://github.com/Genmato/M2_UnCancelOrder
