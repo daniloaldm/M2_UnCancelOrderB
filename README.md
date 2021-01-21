@@ -10,7 +10,7 @@ Installation
 
 This package is registered on [Packagist](https://packagist.org/packages/) for easy installation. In your Magento installation root run:
 
-`composer require genmato/uncancelorder`
+`composer require daniloaldm/uncancelorder`
 
 This will install the latest version in your Magento installation, when completed run:
 
